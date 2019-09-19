@@ -105,697 +105,1327 @@ Data:  ::
 Data:  ::	  
 Data:  ::	  
 Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
-Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	  
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
+Data:  ::	 moea: Toolkit/ExampleProblems.cpp:65: std::vector<double> {anonymous}::WFG_normalise_z(const std::vector<double>&): Assertion `z[i] >= 0.0' failed.
+ 
 Data:  ::	  
 Data:  ::	  
 Data:  ::	  
