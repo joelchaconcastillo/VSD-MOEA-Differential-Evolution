@@ -1,0 +1,1445 @@
+Data: 14 ::	 Selected problem: DTLZ4
+SSSEEEd 14Total execution time: 103533.125816s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: DTLZ6
+SSSEEEd 8Total execution time: 126908.665515s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: DTLZ5
+SSSEEEd 8Total execution time: 161476.183786s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: DTLZ5
+SSSEEEd 33Total execution time: 162759.913214s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: DTLZ5
+SSSEEEd 6Total execution time: 163209.533701s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: DTLZ5
+SSSEEEd 13Total execution time: 162804.091288s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: DTLZ5
+SSSEEEd 29Total execution time: 163633.003060s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: DTLZ5
+SSSEEEd 34Total execution time: 163757.046708s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: DTLZ5
+SSSEEEd 19Total execution time: 163820.740789s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: DTLZ5
+SSSEEEd 35Total execution time: 163852.656023s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: DTLZ5
+SSSEEEd 21Total execution time: 164117.753191s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: DTLZ5
+SSSEEEd 32Total execution time: 164233.183115s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: DTLZ5
+SSSEEEd 9Total execution time: 163913.534659s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: DTLZ5
+SSSEEEd 26Total execution time: 164346.559868s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: DTLZ5
+SSSEEEd 25Total execution time: 164918.857554s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: DTLZ5
+SSSEEEd 23Total execution time: 164967.170418s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: DTLZ5
+SSSEEEd 24Total execution time: 164969.224140s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: DTLZ5
+SSSEEEd 10Total execution time: 164642.501292s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: DTLZ5
+SSSEEEd 12Total execution time: 165429.163438s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: DTLZ6
+SSSEEEd 18Total execution time: 165120.865014s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: DTLZ5
+SSSEEEd 28Total execution time: 165111.172410s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: DTLZ5
+SSSEEEd 7Total execution time: 165791.549945s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: DTLZ5
+SSSEEEd 2Total execution time: 165810.558518s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: DTLZ5
+SSSEEEd 18Total execution time: 165518.616837s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: DTLZ5
+SSSEEEd 5Total execution time: 165881.702638s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: DTLZ5
+SSSEEEd 3Total execution time: 166097.336845s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: DTLZ5
+SSSEEEd 4Total execution time: 166387.734499s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: DTLZ5
+SSSEEEd 20Total execution time: 166852.463039s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: DTLZ5
+SSSEEEd 27Total execution time: 166422.194676s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: DTLZ5
+SSSEEEd 16Total execution time: 167094.956054s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: DTLZ5
+SSSEEEd 11Total execution time: 166878.509398s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: DTLZ5
+SSSEEEd 22Total execution time: 167523.685981s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: DTLZ5
+SSSEEEd 17Total execution time: 167418.975043s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: DTLZ5
+SSSEEEd 15Total execution time: 167417.506936s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: DTLZ5
+SSSEEEd 14Total execution time: 167979.332857s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: DTLZ5
+SSSEEEd 30Total execution time: 168402.335761s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: DTLZ5
+SSSEEEd 31Total execution time: 169033.722904s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: DTLZ6
+SSSEEEd 14Total execution time: 170797.274092s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: DTLZ5
+SSSEEEd 1Total execution time: 171589.335789s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: DTLZ6
+SSSEEEd 15Total execution time: 175519.376999s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: DTLZ6
+SSSEEEd 2Total execution time: 180192.148123s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: DTLZ6
+SSSEEEd 29Total execution time: 186848.397335s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: DTLZ6
+SSSEEEd 13Total execution time: 187984.096937s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: DTLZ6
+SSSEEEd 33Total execution time: 189289.286773s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: DTLZ6
+SSSEEEd 31Total execution time: 195702.278071s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: DTLZ6
+SSSEEEd 17Total execution time: 199358.557486s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: DTLZ6
+SSSEEEd 19Total execution time: 199795.148939s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: DTLZ6
+SSSEEEd 16Total execution time: 201207.061707s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: DTLZ6
+SSSEEEd 12Total execution time: 209104.935031s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: DTLZ6
+SSSEEEd 22Total execution time: 214764.270389s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: DTLZ6
+SSSEEEd 27Total execution time: 215056.642273s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: DTLZ6
+SSSEEEd 21Total execution time: 216442.811559s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: DTLZ6
+SSSEEEd 1Total execution time: 216315.228466s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: DTLZ6
+SSSEEEd 5Total execution time: 216688.329564s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: UF9
+SSSEEEd 6Total execution time: 55379.726039s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: UF9
+SSSEEEd 4Total execution time: 57229.962161s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: DTLZ6
+SSSEEEd 26Total execution time: 225292.816029s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: UF9
+SSSEEEd 3Total execution time: 60749.561027s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: UF9
+SSSEEEd 5Total execution time: 60793.601093s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: UF9
+SSSEEEd 15Total execution time: 59392.144116s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: UF9
+SSSEEEd 19Total execution time: 58863.073555s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: UF9
+SSSEEEd 14Total execution time: 59969.638089s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: UF9
+SSSEEEd 17Total execution time: 59421.651521s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: DTLZ6
+SSSEEEd 7Total execution time: 228356.913949s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: UF9
+SSSEEEd 7Total execution time: 62768.337271s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: UF9
+SSSEEEd 10Total execution time: 62662.436439s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: UF9
+SSSEEEd 22Total execution time: 59946.673633s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: UF9
+SSSEEEd 20Total execution time: 61372.327941s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: DTLZ6
+SSSEEEd 9Total execution time: 231837.938409s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: DTLZ6
+SSSEEEd 10Total execution time: 239865.866176s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: DTLZ6
+SSSEEEd 23Total execution time: 240598.309909s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: UF9
+SSSEEEd 26Total execution time: 63633.205378s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: UF9
+SSSEEEd 2Total execution time: 79640.157981s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: DTLZ6
+SSSEEEd 3Total execution time: 245075.450876s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: UF9
+SSSEEEd 1Total execution time: 80259.343651s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: UF9
+SSSEEEd 13Total execution time: 78678.507650s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: UF9
+SSSEEEd 9Total execution time: 81406.958759s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: UF9
+SSSEEEd 8Total execution time: 82155.619466s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: UF9
+SSSEEEd 12Total execution time: 81947.190541s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: UF9
+SSSEEEd 23Total execution time: 77904.560361s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: UF9
+SSSEEEd 21Total execution time: 81041.732648s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: UF9
+SSSEEEd 16Total execution time: 83060.805321s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: UF9
+SSSEEEd 11Total execution time: 84806.580232s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: UF9
+SSSEEEd 18Total execution time: 83441.471612s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: UF9
+SSSEEEd 25Total execution time: 76161.138192s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: DTLZ6
+SSSEEEd 28Total execution time: 254034.751439s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: UF9
+SSSEEEd 24Total execution time: 83392.840637s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: UF9
+SSSEEEd 30Total execution time: 60170.695834s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: UF9
+SSSEEEd 31Total execution time: 58564.665126s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: DTLZ6
+SSSEEEd 4Total execution time: 258379.205634s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: DTLZ6
+SSSEEEd 25Total execution time: 259911.462293s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: UF9
+SSSEEEd 34Total execution time: 55548.308310s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: DTLZ6
+SSSEEEd 6Total execution time: 265644.482367s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: UF9
+SSSEEEd 28Total execution time: 79186.699566s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: UF9
+SSSEEEd 29Total execution time: 78833.539584s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: UF9
+SSSEEEd 27Total execution time: 81365.288842s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: UF10
+SSSEEEd 5Total execution time: 48520.776854s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: DTLZ6
+SSSEEEd 11Total execution time: 269789.981238s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: UF9
+SSSEEEd 35Total execution time: 55804.339091s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: UF10
+SSSEEEd 4Total execution time: 55273.322158s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: UF9
+SSSEEEd 32Total execution time: 75540.561424s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: UF10
+SSSEEEd 3Total execution time: 59473.019116s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: DTLZ6
+SSSEEEd 35Total execution time: 278595.689093s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: UF9
+SSSEEEd 33Total execution time: 77897.594627s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: DTLZ6
+SSSEEEd 20Total execution time: 279752.603479s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: UF10
+SSSEEEd 6Total execution time: 57906.849639s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: UF10
+SSSEEEd 8Total execution time: 55880.880552s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: DTLZ6
+SSSEEEd 32Total execution time: 284205.573063s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: DTLZ6
+SSSEEEd 24Total execution time: 285367.942370s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: DTLZ6
+SSSEEEd 34Total execution time: 286767.811844s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: UF10
+SSSEEEd 30Total execution time: 39351.209307s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: UF10
+SSSEEEd 20Total execution time: 49714.040521s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: UF10
+SSSEEEd 17Total execution time: 61155.780386s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: UF10
+SSSEEEd 22Total execution time: 46561.197089s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: UF10
+SSSEEEd 14Total execution time: 63218.819556s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: UF10
+SSSEEEd 12Total execution time: 64974.805524s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: UF10
+SSSEEEd 24Total execution time: 47293.528405s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: UF10
+SSSEEEd 35Total execution time: 41829.923095s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: UF10
+SSSEEEd 27Total execution time: 49081.549682s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: UF10
+SSSEEEd 32Total execution time: 46274.273492s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: UF10
+SSSEEEd 10Total execution time: 70760.646042s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: UF10
+SSSEEEd 28Total execution time: 49477.972406s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: UF10
+SSSEEEd 33Total execution time: 49113.240845s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: DTLZ6
+SSSEEEd 30Total execution time: 305061.784134s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: UF8
+SSSEEEd 5Total execution time: 307074.635755s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: UF8
+SSSEEEd 1Total execution time: 311583.516256s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: UF10
+SSSEEEd 19Total execution time: 81715.342758s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: UF10
+SSSEEEd 2Total execution time: 102874.437949s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: UF10
+SSSEEEd 18Total execution time: 94014.365610s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: UF10
+SSSEEEd 1Total execution time: 110223.994393s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: UF8
+SSSEEEd 35Total execution time: 178159.798981s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: WFG8
+SSSEEEd 19Total execution time: 343131.648649s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: WFG8
+SSSEEEd 16Total execution time: 345828.818778s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: UF10
+SSSEEEd 9Total execution time: 128194.375607s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: WFG8
+SSSEEEd 20Total execution time: 353425.261013s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: UF10
+SSSEEEd 13Total execution time: 130496.850312s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: UF10
+SSSEEEd 23Total execution time: 114586.920058s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: WFG8
+SSSEEEd 23Total execution time: 358809.730431s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: WFG8
+SSSEEEd 31Total execution time: 357656.445617s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: WFG8
+SSSEEEd 21Total execution time: 359910.223149s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: WFG8
+SSSEEEd 34Total execution time: 362840.908362s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: WFG8
+SSSEEEd 32Total execution time: 367880.681468s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: WFG8
+SSSEEEd 27Total execution time: 366976.804111s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: WFG8
+SSSEEEd 18Total execution time: 368833.421160s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: WFG8
+SSSEEEd 17Total execution time: 371195.599891s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: WFG8
+SSSEEEd 1Total execution time: 366402.905675s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: WFG8
+SSSEEEd 14Total execution time: 366588.384115s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: WFG8
+SSSEEEd 25Total execution time: 371378.535719s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: WFG8
+SSSEEEd 24Total execution time: 372902.488812s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: WFG8
+SSSEEEd 22Total execution time: 372882.756102s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: WFG8
+SSSEEEd 33Total execution time: 371747.223793s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: WFG8
+SSSEEEd 35Total execution time: 373945.981553s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: WFG8
+SSSEEEd 26Total execution time: 373072.965195s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: WFG8
+SSSEEEd 29Total execution time: 376888.213364s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: UF10
+SSSEEEd 16Total execution time: 149402.433678s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: DTLZ3
+SSSEEEd 19Total execution time: 378231.211710s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: WFG8
+SSSEEEd 10Total execution time: 375036.111672s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: DTLZ3
+SSSEEEd 23Total execution time: 380778.189036s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: DTLZ3
+SSSEEEd 30Total execution time: 381019.993082s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: DTLZ3
+SSSEEEd 26Total execution time: 383463.483127s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: DTLZ3
+SSSEEEd 17Total execution time: 384600.933760s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: UF10
+SSSEEEd 11Total execution time: 159242.116422s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: DTLZ3
+SSSEEEd 13Total execution time: 385817.254432s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: UF10
+SSSEEEd 34Total execution time: 135695.350541s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: WFG3
+SSSEEEd 35Total execution time: 383059.783913s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: DTLZ3
+SSSEEEd 20Total execution time: 386944.716741s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: DTLZ3
+SSSEEEd 32Total execution time: 387212.092011s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: WFG3
+SSSEEEd 31Total execution time: 384071.913734s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: WFG8
+SSSEEEd 30Total execution time: 387131.394601s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: WFG8
+SSSEEEd 9Total execution time: 383888.038259s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: WFG8
+SSSEEEd 28Total execution time: 387162.102801s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: DTLZ3
+SSSEEEd 9Total execution time: 388614.409671s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: DTLZ3
+SSSEEEd 25Total execution time: 388410.933564s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: DTLZ3
+SSSEEEd 31Total execution time: 389527.974532s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: DTLZ3
+SSSEEEd 5Total execution time: 389502.342949s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: DTLZ3
+SSSEEEd 7Total execution time: 389971.865778s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: DTLZ3
+SSSEEEd 24Total execution time: 389647.691484s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: DTLZ3
+SSSEEEd 34Total execution time: 389911.008042s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: DTLZ3
+SSSEEEd 27Total execution time: 390922.921989s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: DTLZ3
+SSSEEEd 1Total execution time: 390341.880663s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: WFG8
+SSSEEEd 7Total execution time: 383819.281036s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: DTLZ3
+SSSEEEd 15Total execution time: 392233.517448s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: DTLZ3
+SSSEEEd 14Total execution time: 390925.183792s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: UF8
+SSSEEEd 22Total execution time: 264888.787876s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 35 ::	 Selected problem: DTLZ3
+SSSEEEd 35Total execution time: 393016.300173s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: DTLZ3
+SSSEEEd 22Total execution time: 393134.409280s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: DTLZ3
+SSSEEEd 28Total execution time: 393290.298414s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: DTLZ3
+SSSEEEd 29Total execution time: 393786.386788s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: UF10
+SSSEEEd 25Total execution time: 149946.134461s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: DTLZ3
+SSSEEEd 11Total execution time: 394427.395391s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: DTLZ3
+SSSEEEd 10Total execution time: 395459.670708s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: DTLZ3
+SSSEEEd 18Total execution time: 395800.059719s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: DTLZ3
+SSSEEEd 21Total execution time: 396178.429935s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: DTLZ3
+SSSEEEd 16Total execution time: 396637.707987s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: DTLZ3
+SSSEEEd 4Total execution time: 397015.640898s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: DTLZ3
+SSSEEEd 6Total execution time: 396730.263114s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: DTLZ3
+SSSEEEd 33Total execution time: 397302.151869s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: WFG3
+SSSEEEd 9Total execution time: 398163.461663s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: WFG8
+SSSEEEd 5Total execution time: 391950.775939s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: DTLZ3
+SSSEEEd 8Total execution time: 398884.344488s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: WFG8
+SSSEEEd 4Total execution time: 395644.698121s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: DTLZ3
+SSSEEEd 2Total execution time: 399055.980297s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: DTLZ3
+SSSEEEd 3Total execution time: 400130.540505s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: WFG8
+SSSEEEd 6Total execution time: 393977.772679s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: WFG3
+SSSEEEd 32Total execution time: 399451.008470s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: WFG8
+SSSEEEd 13Total execution time: 395596.029043s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: WFG3
+SSSEEEd 6Total execution time: 402791.684777s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: DTLZ3
+SSSEEEd 12Total execution time: 405571.494920s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: WFG3
+SSSEEEd 7Total execution time: 404571.442688s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 9 ::	 Selected problem: DTLZ7
+SSSEEEd 9Total execution time: 407317.425938s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: WFG8
+SSSEEEd 3Total execution time: 402197.247738s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: WFG8
+SSSEEEd 12Total execution time: 400876.495833s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: WFG8
+SSSEEEd 2Total execution time: 399987.856851s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: WFG3
+SSSEEEd 17Total execution time: 405253.893226s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: WFG3
+SSSEEEd 5Total execution time: 405676.367344s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: WFG3
+SSSEEEd 28Total execution time: 406787.180118s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: WFG8
+SSSEEEd 8Total execution time: 402144.469873s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: WFG3
+SSSEEEd 22Total execution time: 407424.697522s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: UF10
+SSSEEEd 29Total execution time: 161521.385504s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: WFG3
+SSSEEEd 13Total execution time: 410261.325440s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: WFG3
+SSSEEEd 2Total execution time: 411026.127193s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: WFG3
+SSSEEEd 23Total execution time: 410961.996017s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: WFG3
+SSSEEEd 15Total execution time: 407256.370835s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: WFG8
+SSSEEEd 15Total execution time: 407285.842848s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: WFG3
+SSSEEEd 16Total execution time: 408029.270391s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: WFG3
+SSSEEEd 18Total execution time: 408650.885188s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: WFG3
+SSSEEEd 21Total execution time: 413346.621515s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: WFG3
+SSSEEEd 4Total execution time: 415437.322479s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: WFG3
+SSSEEEd 12Total execution time: 409743.903638s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: WFG3
+SSSEEEd 3Total execution time: 416754.657202s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: WFG8
+SSSEEEd 11Total execution time: 409826.624295s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 34 ::	 Selected problem: WFG3
+SSSEEEd 34Total execution time: 413933.068841s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: UF10
+SSSEEEd 26Total execution time: 173753.419067s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: WFG3
+SSSEEEd 24Total execution time: 415577.375167s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 27 ::	 Selected problem: WFG3
+SSSEEEd 27Total execution time: 415950.896934s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: WFG3
+SSSEEEd 14Total execution time: 411858.208563s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: UF10
+SSSEEEd 31Total execution time: 169809.761379s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: WFG3
+SSSEEEd 11Total execution time: 419101.007194s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: WFG3
+SSSEEEd 19Total execution time: 415021.258036s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: WFG3
+SSSEEEd 10Total execution time: 425392.799171s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: DTLZ7
+SSSEEEd 8Total execution time: 428585.141760s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: WFG3
+SSSEEEd 1Total execution time: 427433.255396s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: DTLZ7
+SSSEEEd 4Total execution time: 432665.167111s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: WFG3
+SSSEEEd 25Total execution time: 428413.659216s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: WFG3
+SSSEEEd 33Total execution time: 429161.822553s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: WFG3
+SSSEEEd 20Total execution time: 427492.570018s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: DTLZ7
+SSSEEEd 3Total execution time: 436475.261825s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: DTLZ7
+SSSEEEd 14Total execution time: 437277.472438s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 8 ::	 Selected problem: WFG3
+SSSEEEd 8Total execution time: 434824.016148s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 30 ::	 Selected problem: WFG3
+SSSEEEd 30Total execution time: 429943.279132s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: DTLZ7
+SSSEEEd 7Total execution time: 440619.888930s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 1 ::	 Selected problem: DTLZ7
+SSSEEEd 1Total execution time: 444155.060487s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 6 ::	 Selected problem: DTLZ7
+SSSEEEd 6Total execution time: 444668.068477s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: DTLZ7
+SSSEEEd 10Total execution time: 446030.069031s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 26 ::	 Selected problem: WFG3
+SSSEEEd 26Total execution time: 437341.325620s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: DTLZ1
+SSSEEEd 17Total execution time: 446132.532033s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: DTLZ7
+SSSEEEd 11Total execution time: 448706.522299s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 21 ::	 Selected problem: DTLZ1
+SSSEEEd 21Total execution time: 449455.544376s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 24 ::	 Selected problem: DTLZ1
+SSSEEEd 24Total execution time: 450840.860481s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: WFG3
+SSSEEEd 29Total execution time: 448382.583862s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 13 ::	 Selected problem: DTLZ7
+SSSEEEd 13Total execution time: 452799.435528s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: DTLZ7
+SSSEEEd 15Total execution time: 454483.332814s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 2 ::	 Selected problem: DTLZ7
+SSSEEEd 2Total execution time: 455174.268374s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: DTLZ7
+SSSEEEd 5Total execution time: 457776.076373s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: DTLZ1
+SSSEEEd 19Total execution time: 459463.796251s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 16 ::	 Selected problem: DTLZ1
+SSSEEEd 16Total execution time: 460292.302474s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 32 ::	 Selected problem: UF8
+SSSEEEd 32Total execution time: 294780.771460s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 11 ::	 Selected problem: DTLZ1
+SSSEEEd 11Total execution time: 463042.749417s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: DTLZ7
+SSSEEEd 12Total execution time: 465452.596629s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 22 ::	 Selected problem: DTLZ1
+SSSEEEd 22Total execution time: 465870.200182s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 15 ::	 Selected problem: DTLZ1
+SSSEEEd 15Total execution time: 466485.590751s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 14 ::	 Selected problem: DTLZ1
+SSSEEEd 14Total execution time: 470178.085820s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 10 ::	 Selected problem: DTLZ1
+SSSEEEd 10Total execution time: 470611.598193s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 28 ::	 Selected problem: DTLZ1
+SSSEEEd 28Total execution time: 469398.601815s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 20 ::	 Selected problem: DTLZ1
+SSSEEEd 20Total execution time: 473045.506969s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: DTLZ1
+SSSEEEd 23Total execution time: 473941.021659s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 25 ::	 Selected problem: DTLZ1
+SSSEEEd 25Total execution time: 483567.334696s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 3 ::	 Selected problem: DTLZ1
+SSSEEEd 3Total execution time: 484030.820684s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 29 ::	 Selected problem: UF8
+SSSEEEd 29Total execution time: 320189.194772s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 19 ::	 Selected problem: DTLZ7
+SSSEEEd 19Total execution time: 483104.521399s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 17 ::	 Selected problem: DTLZ7
+SSSEEEd 17Total execution time: 484322.621206s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 12 ::	 Selected problem: DTLZ1
+SSSEEEd 12Total execution time: 487689.941710s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 33 ::	 Selected problem: DTLZ7
+SSSEEEd 33Total execution time: 488049.398352s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 23 ::	 Selected problem: DTLZ7
+SSSEEEd 23Total execution time: 487342.985048s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 5 ::	 Selected problem: DTLZ1
+SSSEEEd 5Total execution time: 492103.849359s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 4 ::	 Selected problem: DTLZ1
+SSSEEEd 4Total execution time: 493143.313558s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 31 ::	 Selected problem: DTLZ7
+SSSEEEd 31Total execution time: 491370.839966s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 7 ::	 Selected problem: DTLZ1
+SSSEEEd 7Total execution time: 494104.107865s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
+Data: 18 ::	 Selected problem: DTLZ7
+SSSEEEd 18Total execution time: 490775.323557s
+Variables values have been written to file VAR
+Objectives values have been written to file FUN
+ 
