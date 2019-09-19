@@ -354,7 +354,7 @@ void diff_evo_xoverB(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 	int idx_rnd = int(rnd_uni(&rnd_uni_init)*nvar);
 
 
-    double CR   = 0.1;//  (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
+    double CR = (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
 	for(int n=0;n<nvar;n++)
 	{
 	  /*Selected Two Parents*/
@@ -374,18 +374,18 @@ void diff_evo_xoverB(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 	  //*/
 
 	  // handle the boundary voilation
-//	  if(child.x_var[n]<vlowBound[n]){
-//	          double rnd = rnd_uni(&rnd_uni_init);
-////	          double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
-// 	       //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
-// 	        child.x_var[n] = vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
-//	  }
-//	  if(child.x_var[n]>vuppBound[n]){ 
-//	          double rnd = rnd_uni(&rnd_uni_init);
-//	          //double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
-// 	        //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
-//	        child.x_var[n] = vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
-//	  }
+	  if(child.x_var[n]<vlowBound[n]){
+	          double rnd = rnd_uni(&rnd_uni_init);
+//	          double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
+ 	       //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
+ 	        child.x_var[n]   = ind0.x_var[n];// vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
+	  }
+	  if(child.x_var[n]>vuppBound[n]){ 
+	          double rnd = rnd_uni(&rnd_uni_init);
+	          //double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
+ 	        //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
+	        child.x_var[n] = ind0.x_var[n];//  vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
+	  }
 	  if(child.x_var[n]<vlowBound[n]) child.x_var[n] = vlowBound[n];
 	  if(child.x_var[n]>vuppBound[n]) child.x_var[n] = vuppBound[n];
 	}

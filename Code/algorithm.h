@@ -410,19 +410,30 @@ void MOEA::reproduction(vector<CIndividual> &population, vector<CIndividual> &ch
 }
 void MOEA::recombination(vector<CIndividual> &child_pop)
 {
-   vector<CIndividual> child_pop2 = child_pop;
+   vector<CIndividual> parent_pop = child_pop;
 	
-   for(int i = 0; i < child_pop.size(); i+=2)
+   for(int i = 0; i < child_pop.size(); i++)
     {
        int indexa = i;// int(rnd_uni(&rnd_uni_init)*pops);
-       int indexb = i+1;//int(rnd_uni(&rnd_uni_init)*pops);	
-       real_sbx_xoverA( child_pop2[indexa], child_pop2[indexb], child_pop[i], child_pop[i+1]);//the crossover probability and index distribution eta are configured in the global.h file
-       realmutation(child_pop[i]); //the index distribution (eta) and  mutation probability are configured in the global.h file
-       realmutation(child_pop[i+1]);
-       child_pop[i].obj_eval();
-       child_pop[i+1].obj_eval();
-       update_ideal_vector(child_pop[i]);
-       update_ideal_vector(child_pop[i+1]);
+
+       int indexb = int(rnd_uni(&rnd_uni_init)*pops);	
+       int indexc = int(rnd_uni(&rnd_uni_init)*pops);	
+       while( indexb == indexa)
+         indexb = int(rnd_uni(&rnd_uni_init)*pops);	
+       while( indexa == indexc || indexc == indexb)
+         indexc = int(rnd_uni(&rnd_uni_init)*pops);	
+
+
+ //      real_sbx_xoverA( child_pop2[indexa], child_pop2[indexb], child_pop[i], child_pop[i+1]);//the crossover probability and index distribution eta are configured in the global.h file
+ //      realmutation(child_pop[i]); //the index distribution (eta) and  mutation probability are configured in the global.h file
+ //      realmutation(child_pop[i+1]);
+	double rate = box_muller(0.5, 0.1);
+ 	diff_evo_xoverB(parent_pop[indexa], parent_pop[indexb] , parent_pop[indexc], child_pop[indexa],rate);
+ 	
+       child_pop[indexa].obj_eval();
+       //child_pop[i+1].obj_eval();
+       //update_ideal_vector(child_pop[i]);
+       //update_ideal_vector(child_pop[i+1]);
     }
 }
 void MOEA::binary_tournament_selection(vector<CIndividual > &population, vector<CIndividual> &child_pop)
@@ -564,9 +575,9 @@ void MOEA::exec_emo(int run)
 	    
 	    nfes2 = nfes;
 	   countnfes += (nfes2 - nfes1);
-	   if(  countnfes > 0.001*max_nfes  )
+	   if(  countnfes >= 0.5*max_nfes  )
 	    {	
-	      countnfes -= 0.001*max_nfes;
+	      countnfes -= 0.5*max_nfes;
               save_front(filename2); //save the objective space information
 	      save_pos(filename1); //save the decision variable space information
 	    //  cout << "nfes... "<< nfes <<endl;
